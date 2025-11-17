@@ -1,4 +1,6 @@
-## Hi there 👋
+👋 Hi, I'm Sameer Malik
+🚀 Lead Software Engineer | Full-Stack | AI & System Design | Remote Engineering
+Building scalable products, integrating AI, and leading high-impact engineering initiatives.
 
 <!--
 **sam25malik/sam25malik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
