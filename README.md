@@ -1,4 +1,5 @@
 👋 Hi, I'm Sameer Malik
+
 🚀 Lead Software Engineer | Full-Stack | AI Engineer | Remote Engineering
 
 Building scalable products, integrating AI, and leading high-impact engineering initiatives.
