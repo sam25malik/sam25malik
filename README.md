@@ -8,11 +8,11 @@
 
 🧩 Core Stack: 
 - JavaScript, TypeScript, Python, Elixir, React, Next.js, Vue.js, Phoenix, Django, FastAPI, Node.js
-- PostgreSQL, MySQL, MongoDB, Chroma, AWS, Docker, Kubernetes
+- PostgreSQL, MySQL, MongoDB, Chroma, AWS, Docker, Kubernetes 
 🤖 AI:
-- LangChain, LangGraph, LLMs (GPT-4/4o), RAG, Agents     
+- LangChain, LangGraph, LLMs (GPT-4/4o), RAG, Agents 
 💼 Misc:
-- GraphQL, Redis, GitHub Actions, GitLab CI, CI/CD, React Native, Swift, Android, Jest, Pytest, ExUnit, WYSIWYG Editors  
+- GraphQL, Redis, GitHub Actions, GitLab CI, CI/CD, React Native, Swift, Android, Jest, Pytest, ExUnit, WYSIWYG Editors 
 
 <!--
 **sam25malik/sam25malik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
