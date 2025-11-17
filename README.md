@@ -2,9 +2,9 @@
 
 🚀 Lead Software Engineer | Full Stack Developer | AI Engineer
 
-💻 I specialize in building scalable products, integrating AI, and leading high-impact engineering initiatives.
-🌍 I’ve worked with global companies in Hong Kong, Dubai, and India, delivering robust platforms and AI-driven solutions.
-🛠️ I focus on system design, full-stack engineering, and turning complex requirements into reliable, production-grade products.
+💻 I specialize in building scalable products, integrating AI, and leading high-impact engineering initiatives.  
+🌍 I’ve worked with global companies in Hong Kong, Dubai, and India, delivering robust platforms and AI-driven solutions.  
+🛠️ I focus on system design, full-stack engineering, and turning complex requirements into reliable, production-grade products.  
 
 <!--
 **sam25malik/sam25malik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
