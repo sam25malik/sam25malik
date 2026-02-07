@@ -16,14 +16,14 @@
 💼 Misc:
 - GraphQL, Redis, GitHub Actions, GitLab CI, CI/CD, React Native, Swift, Android, Jest, Pytest, ExUnit, WYSIWYG Editors 
 
-<h3 align="left">Connect with me:</h3>
+**Connect with me:**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/msameermalik/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="40"
-      height="40"
+      width="30"
+      height="30"
     />
   </a>
 </p>
