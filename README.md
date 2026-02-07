@@ -22,8 +22,8 @@
   <a href="https://www.linkedin.com/in/msameermalik/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="30"
-      height="30"
+      width="25"
+      height="25"
     />
   </a>
 </p>
