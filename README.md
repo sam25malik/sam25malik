@@ -1,6 +1,6 @@
 **👋 Hi, I'm Sameer Malik**<br>
 
-🚀 Lead Software Engineer | Full Stack Developer | AI Engineer
+🚀 Lead AI Software Engineer | Full Stack Developer | AI Engineer
 
 💻 I specialize in building scalable products, integrating AI, and leading high-impact engineering initiatives.  
 🌍 I’ve worked with global companies in Hong Kong, Dubai, and India, delivering robust platforms and AI-driven solutions.  
@@ -11,7 +11,7 @@
 - PostgreSQL, MySQL, MongoDB, Chroma, AWS, Docker, Kubernetes
 
 🤖 AI:
-- LangChain, LangGraph, LLMs (GPT-4/4o), RAG, Agents, MCP Servers 
+- LangChain, LangGraph, LLMs (GPT-4/4o), RAG, Agents, MCP Servers, Cursor, Github Copilot, Claude Code, Spec Driven Development (SDD) 
 
 💼 Misc:
 - GraphQL, Redis, GitHub Actions, GitLab CI, CI/CD, React Native, Swift, Android, Jest, Pytest, ExUnit, WYSIWYG Editors 
