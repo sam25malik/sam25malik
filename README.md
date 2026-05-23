@@ -14,7 +14,7 @@
 - LangChain, LangGraph, LLMs (GPT-4/4o), RAG, Agents, MCP Servers, Cursor, Github Copilot, Claude Code, Spec Driven Development (SDD) 
 
 💼 Misc:
-- GraphQL, Redis, GitHub Actions, GitLab CI, CI/CD, React Native, Swift, Android, Jest, Pytest, ExUnit, WYSIWYG Editors 
+- GraphQL, Redis, GitHub Actions, GitLab CI, CI/CD, React Native, Swift, Android, Jest, Pytest, ExUnit, WYSIWYG Editors, Sentry, Dynatrace, Mezmo, Wiz, Sonarqube 
 
 **Connect with me:**
 
