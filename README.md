@@ -3,7 +3,7 @@
 🚀 Lead AI Software Engineer | Full Stack Developer | AI Engineer
 
 💻 I specialize in building scalable products, integrating AI, and leading high-impact engineering initiatives.  
-🌍 I’ve worked with global companies in Hong Kong, Dubai, and India, delivering robust platforms and AI-driven solutions.  
+🌍 I’ve worked with global companies in USA, Europe, Hong Kong, Dubai, and India, delivering robust platforms and AI-driven solutions.  
 🛠️ I focus on system design, full-stack engineering, and turning complex requirements into reliable, production-grade products.  
 
 🧩 Core Stack: 
